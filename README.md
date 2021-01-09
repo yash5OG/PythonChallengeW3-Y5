@@ -52,6 +52,7 @@ A set of poll data called election_data.csv is in the resources folder. The data
 *The winner of the election based on popular vote.
 
 
+
 Ex:
   Election Results
   -------------------------
