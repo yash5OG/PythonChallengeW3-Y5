@@ -24,6 +24,8 @@ minpl = 0          #maximum decrease in losses
 max_i = 0          #index for max pl
 min_i = 0          #index for min pl
 
+
+os.chdir(os.path.dirname(__file__))   #changes path to current py file
 #read the resource file
 bankcsv = os.path.join(".", "Resources", "budget_data.csv")    #set path
 
